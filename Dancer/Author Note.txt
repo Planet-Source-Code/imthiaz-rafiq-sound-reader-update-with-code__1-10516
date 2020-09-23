@@ -1,0 +1,35 @@
+Dancer Ocx
+Version 1.0
+Copyright 1998-1999 Bloom Software Inc.
+All Right Not Reserved
+
+By Imthiaz Rafiq
+http://bloom.bizland.com/
+imthiazrafiq@hotmail.com
+
+
+This a simple Ocx which will represent a number between a range in
+progress bar like feature. 
+
+Note : Not same as progress bar.
+-----------------------------------------------------------------------
+Properties:
+-----------
+
+There is two mode : Horizontal And Vertical
+
+There is another property called orientation : Which sets the motion 
+direction
+
+There is two size : Large And Small
+
+The thickness can be varied from 1 to 30
+
+You can set the background color of the dancer ocx default black.
+
+-----------------------------------------------------------------------
+This Ocx is Free For Distribution......>
+Don't hesitate to mail me..............>
+Thank's for Downloading this Ocx.......>
+-----------------------------------------------------------------------
+
